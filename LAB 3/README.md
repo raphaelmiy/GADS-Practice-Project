@@ -2,7 +2,7 @@
 
 In this lab we upload images to Cloud Storage and use the uploaded images to train a model to to recognize different types of clouds.
 
-Requirements
+## Requirements
 
 - Enable Cloud AutoML API
 
