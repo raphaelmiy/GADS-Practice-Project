@@ -8,3 +8,5 @@ Labs with code translation will be indicated in this file.
 - Lab 3
 - Lab 5
 - Lab 6
+- Lab 8
+- Lab 10
